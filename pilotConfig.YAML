@@ -1,0 +1,34 @@
+NumOfPilots: 8
+Pilots:
+  - PilotId: 12432
+    Certification: true
+    FlightHours: 12
+    SimHours: 12
+  - PilotId: 23242
+    Certification: true
+    FlightHours: 12
+    SimHours: 4
+  - PilotId: 33423
+    Certification: true
+    FlightHours: 0
+    SimHours: 12
+  - PilotId: 45232
+    Certification: true
+    FlightHours: 0
+    SimHours: 3
+  - PilotId: 55325
+    Certification: false
+    FlightHours: 12
+    SimHours: 12
+  - PilotId: 63252
+    Certification: false
+    FlightHours: 12
+    SimHours: 4
+  - PilotId: 77644
+    Certification: false
+    FlightHours: 0
+    SimHours: 12
+  - PilotId: 84238
+    Certification: false
+    FlightHours: 0
+    SimHours: 3
